@@ -1,4 +1,4 @@
-package com.ahmed.authenticationjwt.model;
+package com.ahmed.authenticationjwt.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

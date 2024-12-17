@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/authenticationDB
+    username: username
+    password: password
+    driver-class-nam: com.postgresql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+server:
+  port: 8088

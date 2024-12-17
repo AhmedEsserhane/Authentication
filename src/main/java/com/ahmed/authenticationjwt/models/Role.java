@@ -1,4 +1,4 @@
-package com.ahmed.authenticationjwt.model;
+package com.ahmed.authenticationjwt.models;
 
 public enum Role {
 
